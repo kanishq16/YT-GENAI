@@ -1,6 +1,7 @@
 gonna make this project
 discuss all the things in this file 
 make every block of code !!
+practice every block of code. 
 
 mongoose, dotenv, express npm i karlo !
 
