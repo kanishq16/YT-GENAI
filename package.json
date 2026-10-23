@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/kanishq16/YT-GENAI/issues"
   },
-  "homepage": "https://github.com/kanishq16/YT-GENAI#readme"
+  "homepage": "https://github.com/kanishq16/YT-GENAI#readme",
+  "dependencies": {
+    "mongoose": "^9.11.3"
+  }
 }
