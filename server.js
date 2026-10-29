@@ -6,3 +6,4 @@ app.listen(3000, ()=>{
 });
 
 //understand code and then write 
+// with better folder structure. 
